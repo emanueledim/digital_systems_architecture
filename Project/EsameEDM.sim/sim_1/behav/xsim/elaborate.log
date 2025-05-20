@@ -1,0 +1,32 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Testbench_behav xil_defaultlib.Testbench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.numeric_std
+Compiling package ieee.math_real
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.Registro [registro_default]
+Compiling architecture behavioral of entity xil_defaultlib.CheckPositive [checkpositive_default]
+Compiling architecture behavioral of entity xil_defaultlib.Demux1_2 [\Demux1_2(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.Memoria [\Memoria(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.Contatore [\Contatore(m=8)\]
+Compiling architecture fsm of entity xil_defaultlib.UC_B [uc_b_default]
+Compiling architecture structural of entity xil_defaultlib.RicevitoreB [ricevitoreb_default]
+Compiling architecture behavioral of entity xil_defaultlib.ROM1 [rom1_default]
+Compiling architecture behavioral of entity xil_defaultlib.ROM2 [rom2_default]
+Compiling architecture behavioral of entity xil_defaultlib.Mux2_1 [\Mux2_1(n=8)\]
+Compiling architecture dataflow of entity xil_defaultlib.FullAdder [fulladder_default]
+Compiling architecture structural of entity xil_defaultlib.RippleCarryAdder [ripplecarryadder_default]
+Compiling architecture fsm of entity xil_defaultlib.UC_A [uc_a_default]
+Compiling architecture structural of entity xil_defaultlib.TrasmettitoreA [trasmettitorea_default]
+Compiling architecture tb_a_b of entity xil_defaultlib.testbench
+Built simulation snapshot Testbench_behav

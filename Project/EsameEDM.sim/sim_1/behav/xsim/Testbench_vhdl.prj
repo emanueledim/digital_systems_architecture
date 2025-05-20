@@ -1,0 +1,20 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../EsameEDM.srcs/sources_1/new/CheckPositive.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/Contatore.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/Demux1_2.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/FullAdder.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/Memoria.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/Mux2_1.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/ROM1.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/ROM2.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/Registro.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/UC_B.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/RicevitoreB.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/RippleCarryAdder.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/UC_A.vhd" \
+"../../../../EsameEDM.srcs/sources_1/new/TrasmettitoreA.vhd" \
+"../../../../EsameEDM.srcs/sim_1/new/Testbench.vhd" \
+
+# Do not sort compile order
+nosort
